@@ -1,0 +1,18 @@
+THis app will...
+   allow user to browse blueprints that are in his possession.
+   Pull up what is needed to build the blueprint ( and number of runs... )
+   List what the user already has and what he needs to acquire.
+   List the price of what it will take to acquire missing items.
+   
+   List the cost of each item based on current market pricess.
+   
+   
+   Use the xml api to retrieve information from eve to fulfill the above items.
+   (RESEARCH :  Tricky part will be that the items needed to build 1 run may not be available in the api, must research this. )
+   
+   If the above can't be done, the list can be entered by the user.
+   
+   
+   take what is needed to build.
+      Find prices in the major market hubs to build.
+      Calculate cost of each unit produced based on above prices.
